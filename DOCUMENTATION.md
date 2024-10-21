@@ -1,5 +1,4 @@
-
-# VLAN Network Security Project - Documentation
+# Enhancing-Network-Security-Through-VLAN-Segmentation-A-Practical-Implementation-and-Analysis - Documentation
 
 ## Project Overview
 This project demonstrates how VLAN segmentation enhances network security by isolating traffic and restricting unauthorized communication between network nodes. The experiment involves running Nmap host scans, setting up an HTTP server, and testing connectivity between different VLANs to showcase the security benefits of VLAN segmentation.
