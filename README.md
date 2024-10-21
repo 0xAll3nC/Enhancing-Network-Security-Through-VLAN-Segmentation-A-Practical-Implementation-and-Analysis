@@ -16,7 +16,7 @@ This project demonstrates how VLAN segmentation enhances network security by iso
 
 ## How to Use:
 1. Clone this repository.
-2. Load the `Scenario.xml` file in the CORE Network Emulator for netowork simulation. 
+2. Load the `Scenario.xml` file in the CORE Network Emulator for network simulation. 
 3. Follow the steps in `DOCUMENTATION.md` to reproduce the experiment.
 
 ## Project Structure:
