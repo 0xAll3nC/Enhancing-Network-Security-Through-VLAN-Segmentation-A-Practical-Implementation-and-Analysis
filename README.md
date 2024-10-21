@@ -22,6 +22,6 @@ This project demonstrates how VLAN segmentation enhances network security by iso
 ## Project Structure:
 - `README.md`: Overview of the project.
 - `DOCUMENTATION.md`: Detailed documentation of the project, including steps and configurations.
+- `Scenario.xml`: Script to setup the scenario in the CORE Network Emulator.
 - `start.sh`: Script to start the HTTP server.
 - `run_curl.sh`: Script to test server-client connectivity.
-- `Scenario.xml`: Script to setup the scenario in the CORE Network Emulator.
